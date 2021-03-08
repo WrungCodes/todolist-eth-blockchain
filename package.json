@@ -8,7 +8,8 @@
   },
   "scripts": {
     "start": "nodemon index.js",
-    "contract:test" : "truffle test"
+    "contract:test" : "truffle test",
+    "contract:migrate" : "truffle migrate"
   },
   "author": "danieltosinfayemi@gmail.com",
   "license": "ISC",
