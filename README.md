@@ -1,6 +1,5 @@
 A Practice Todolist Blockchain Project
 
-npm run
-    start
-    contract:test
-    contract:migrate
+npm run start
+npm run contract:test
+npm run contract:migrate
